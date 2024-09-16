@@ -1,6 +1,3 @@
-# Loan-Eligibility-Prediction-
-Created a Loan Price Prediction Model leveraging data analysis to estimate loan prices for better financial decision-making.
-
 # Loan Eligibility Prediction System
 
 This repository contains a **Loan Eligibility Prediction System** built using **Python**, **Flask**, and **Pickle** for model deployment. The system predicts whether a user is eligible for a loan based on various input features such as credit score, income, loan amount, employment status, etc. 
