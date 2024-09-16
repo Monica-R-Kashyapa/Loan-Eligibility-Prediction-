@@ -27,3 +27,6 @@ loan-eligibility-prediction/
 - scikit-learn: Used for building and training the machine learning model.
 - Pandas and NumPy: For data manipulation and analysis.
 - HTML: For designing the frontend interface (located in the templates folder).
+
+## Results 
+![Loan](https://github.com/user-attachments/assets/9d708158-c343-415b-ae93-66a226fe1021)
